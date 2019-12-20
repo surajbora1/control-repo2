@@ -5,6 +5,7 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs/inifile'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
+mod 'puppetlabs-translate'
 
 mod 'apache',
   git:    'https://github.com/puppetlabs/puppetlabs-apache',
